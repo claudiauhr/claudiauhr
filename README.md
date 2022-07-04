@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @claudiauhr
 - 👀 I’m interested in music, read and coding
-- 🌱 I’m currently learning Python and C#
+- 🌱 I’m currently learning more about Git and GitHub
 - 💞️ I’m looking to collaborate on different projects that help me to get more in coding
 - 📫 How to reach me: here.
 
